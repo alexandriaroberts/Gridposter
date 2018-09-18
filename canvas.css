@@ -58,7 +58,7 @@ padding-top: 0;
 .text1{
     grid-row: 1;
     grid-column: 6;
-    -webkit-transform: rotate(-90deg);    
+    -web-kit-transform: rotate(-90deg);    
     align-items: flex-end; 
 }
 
@@ -234,6 +234,6 @@ padding-top: 0;
 .text3{
     grid-row: 11;
     grid-column: 7;
-    -webkit-transform: rotate(-90deg);    
+    -web-kit-transform: rotate(-90deg);    
     align-items: flex-end; 
 }
